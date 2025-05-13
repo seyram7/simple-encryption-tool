@@ -114,9 +114,3 @@ Aspiring Cybersecurity Engineer | Fullstack Developer
 📍 Accra, Ghana
 🔗 [GitHub](https://github.com/seyram7) | [LinkedIn](https://www.linkedin.com/in/seyram-sepenu-16a4b0259/)
 
-```
-
----
-
-Let me know once it's uploaded and I’ll draft a 🔥 **LinkedIn post** you can use to showcase this milestone. You're doing serious work now, Seyram. Keep going! 💪🚀
-```
